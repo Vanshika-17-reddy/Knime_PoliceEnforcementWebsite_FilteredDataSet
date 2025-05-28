@@ -1,0 +1,210 @@
+"YEAR","JURISDICTION","AGE_GROUP","DETECTION_METHOD","ARRESTS","CHARGES","Sum(FINES)"
+2008,"ACT","All ages","Police issued","unknown","unknown",2060
+2008,"NSW","All ages","Police issued","unknown","unknown",40882
+2008,"NT","All ages","Police issued","unknown","unknown",671
+2008,"QLD","All ages","Police issued","unknown","unknown",28499
+2008,"SA","All ages","Police issued","unknown","unknown",11411
+2008,"TAS","All ages","Police issued","unknown","unknown",6780
+2008,"VIC","All ages","Police issued","unknown","unknown",49739
+2008,"WA","All ages","Police issued","unknown","unknown",15957
+2009,"ACT","All ages","Police issued","unknown","unknown",1890
+2009,"NSW","All ages","Police issued","unknown","unknown",41167
+2009,"NT","All ages","Police issued","unknown","unknown",1106
+2009,"QLD","All ages","Police issued","unknown","unknown",33352
+2009,"SA","All ages","Police issued","unknown","unknown",14167
+2009,"TAS","All ages","Police issued","unknown","unknown",5665
+2009,"VIC","All ages","Police issued","unknown","unknown",53101
+2009,"WA","All ages","Police issued","unknown","unknown",14804
+2010,"ACT","All ages","Police issued","unknown","unknown",2407
+2010,"NSW","All ages","Police issued","unknown","unknown",51104
+2010,"NT","All ages","Police issued","unknown","unknown",998
+2010,"QLD","All ages","Police issued","unknown","unknown",33013
+2010,"SA","All ages","Police issued","unknown","unknown",14139
+2010,"TAS","All ages","Police issued","unknown","unknown",3735
+2010,"VIC","All ages","Police issued","unknown","unknown",54728
+2010,"WA","All ages","Police issued","unknown","unknown",11705
+2011,"ACT","All ages","Police issued","unknown","unknown",2284
+2011,"NSW","All ages","Police issued","unknown","unknown",46714
+2011,"NT","All ages","Police issued","unknown","unknown",729
+2011,"QLD","All ages","Police issued","unknown","unknown",30389
+2011,"SA","All ages","Police issued","unknown","unknown",13402
+2011,"TAS","All ages","Police issued","unknown","unknown",3241
+2011,"VIC","All ages","Police issued","unknown","unknown",52630
+2011,"WA","All ages","Police issued","unknown","unknown",10485
+2012,"ACT","All ages","Police issued","unknown","unknown",1722
+2012,"NSW","All ages","Police issued","unknown","unknown",42900
+2012,"NT","All ages","Police issued","unknown","unknown",722
+2012,"QLD","All ages","Police issued","unknown","unknown",28548
+2012,"SA","All ages","Police issued","unknown","unknown",11623
+2012,"TAS","All ages","Police issued","unknown","unknown",2141
+2012,"VIC","All ages","Police issued","unknown","unknown",61497
+2012,"WA","All ages","Police issued","unknown","unknown",17822
+2013,"ACT","All ages","Police issued","unknown","unknown",1356
+2013,"NSW","All ages","Police issued","unknown","unknown",33514
+2013,"NT","All ages","Police issued","unknown","unknown",1058
+2013,"QLD","All ages","Police issued","unknown","unknown",27998
+2013,"SA","All ages","Police issued","unknown","unknown",12560
+2013,"TAS","All ages","Police issued","unknown","unknown",2914
+2013,"VIC","All ages","Police issued","unknown","unknown",52452
+2013,"WA","All ages","Police issued","unknown","unknown",14563
+2014,"ACT","All ages","Police issued","unknown","unknown",1115
+2014,"NSW","All ages","Police issued","unknown","unknown",34952
+2014,"NT","All ages","Police issued","unknown","unknown",517
+2014,"QLD","All ages","Police issued","unknown","unknown",25068
+2014,"SA","All ages","Police issued","unknown","unknown",11886
+2014,"TAS","All ages","Police issued","unknown","unknown",3256
+2014,"VIC","All ages","Police issued","unknown","unknown",41448
+2014,"WA","All ages","Police issued","unknown","unknown",14377
+2015,"ACT","All ages","Police issued","unknown","unknown",873
+2015,"NSW","All ages","Police issued","unknown","unknown",37989
+2015,"NT","All ages","Police issued","unknown","unknown",492
+2015,"QLD","All ages","Police issued","unknown","unknown",23048
+2015,"SA","All ages","Police issued","unknown","unknown",12446
+2015,"TAS","All ages","Police issued","unknown","unknown",3273
+2015,"VIC","All ages","Police issued","unknown","unknown",33598
+2015,"WA","All ages","Police issued","unknown","unknown",16666
+2016,"ACT","All ages","Police issued","unknown","unknown",1120
+2016,"NSW","All ages","Police issued","unknown","unknown",38918
+2016,"NT","All ages","Police issued","unknown","unknown",535
+2016,"QLD","All ages","Police issued","unknown","unknown",17213
+2016,"SA","All ages","Police issued","unknown","unknown",11153
+2016,"TAS","All ages","Police issued","unknown","unknown",3191
+2016,"VIC","All ages","Police issued","unknown","unknown",27925
+2016,"WA","All ages","Police issued","unknown","unknown",14926
+2017,"ACT","All ages","Police issued","unknown","unknown",1299
+2017,"NSW","All ages","Police issued","unknown","unknown",41020
+2017,"NT","All ages","Police issued","unknown","unknown",546
+2017,"QLD","All ages","Police issued","unknown","unknown",15043
+2017,"SA","All ages","Police issued","unknown","unknown",11252
+2017,"TAS","All ages","Police issued","unknown","unknown",2738
+2017,"VIC","All ages","Police issued","unknown","unknown",29293
+2017,"WA","All ages","Police issued","unknown","unknown",16718
+2018,"ACT","All ages","Police issued","unknown","unknown",1399
+2018,"NSW","All ages","Police issued","unknown","unknown",37653
+2018,"NT","All ages","Police issued","unknown","unknown",861
+2018,"QLD","All ages","Police issued","unknown","unknown",12828
+2018,"SA","All ages","Police issued","unknown","unknown",8471
+2018,"TAS","All ages","Police issued","unknown","unknown",2614
+2018,"VIC","All ages","Police issued","unknown","unknown",32458
+2018,"WA","All ages","Police issued","unknown","unknown",17697
+2019,"ACT","All ages","Police issued","unknown","unknown",1098
+2019,"NSW","All ages","Police issued","unknown","unknown",25463
+2019,"NT","All ages","Police issued","unknown","unknown",760
+2019,"QLD","All ages","Police issued","unknown","unknown",11580
+2019,"SA","All ages","Police issued","unknown","unknown",7567
+2019,"TAS","All ages","Police issued","unknown","unknown",2355
+2019,"VIC","All ages","Police issued","unknown","unknown",36694
+2019,"WA","All ages","Police issued","unknown","unknown",11850
+2020,"ACT","All ages","Police issued","unknown","unknown",812
+2020,"NSW","All ages","Fixed or mobile camera","unknown","unknown",138847
+2020,"NSW","All ages","Police issued","unknown","unknown",12878
+2020,"NT","All ages","Police issued","unknown","unknown",380
+2020,"QLD","All ages","Police issued","unknown","unknown",4823
+2020,"SA","All ages","Police issued","unknown","unknown",6325
+2020,"TAS","All ages","Police issued","unknown","unknown",1966
+2020,"VIC","All ages","Police issued","unknown","unknown",21231
+2020,"WA","All ages","Police issued","unknown","unknown",7889
+2021,"ACT","All ages","Police issued","unknown","unknown",544
+2021,"NSW","All ages","Fixed or mobile camera","unknown","unknown",163722
+2021,"NSW","All ages","Police issued","unknown","unknown",10360
+2021,"NT","All ages","Police issued","unknown","unknown",309
+2021,"QLD","All ages","Fixed or mobile camera","unknown","unknown",14574
+2021,"QLD","All ages","Police issued","unknown","unknown",3973
+2021,"SA","All ages","Police issued","unknown","unknown",4799
+2021,"TAS","All ages","Police issued","unknown","unknown",2328
+2021,"VIC","All ages","Police issued","unknown","unknown",15562
+2021,"WA","All ages","Police issued","unknown","unknown",4909
+2022,"ACT","All ages","Police issued","unknown","unknown",374
+2022,"NSW","All ages","Fixed or mobile camera","unknown","unknown",194793
+2022,"NSW","All ages","Police issued","unknown","unknown",12904
+2022,"NT","All ages","Police issued","unknown","unknown",302
+2022,"QLD","All ages","Fixed or mobile camera","unknown","unknown",118152
+2022,"QLD","All ages","Police issued","unknown","unknown",3487
+2022,"SA","All ages","Police issued","unknown","unknown",4583
+2022,"TAS","All ages","Police issued","unknown","unknown",1973
+2022,"VIC","All ages","Police issued","unknown","unknown",19428
+2022,"WA","All ages","Police issued","unknown","unknown",6346
+2023,"ACT","0-16","Police issued","unknown","unknown",10
+2023,"ACT","17-25","Police issued","unknown","unknown",82
+2023,"ACT","26-39","Police issued","unknown","unknown",110
+2023,"ACT","40-64","Police issued","unknown","unknown",79
+2023,"ACT","65 and over","Police issued","unknown","unknown",7
+2023,"NSW","0-16","Police issued","unknown","0",17
+2023,"NSW","0-16","Police issued","unknown","1",1
+2023,"NSW","17-25","Police issued","unknown","0",365
+2023,"NSW","17-25","Police issued","unknown","1",847
+2023,"NSW","17-25","Police issued","unknown","2",681
+2023,"NSW","17-25","Police issued","unknown","3",814
+2023,"NSW","17-25","Police issued","unknown","5",764
+2023,"NSW","17-25","Police issued","unknown","6",330
+2023,"NSW","17-25","Police issued","unknown","9",340
+2023,"NSW","26-39","Police issued","unknown","0",799
+2023,"NSW","26-39","Police issued","unknown","1",363
+2023,"NSW","26-39","Police issued","unknown","10",423
+2023,"NSW","26-39","Police issued","unknown","12",290
+2023,"NSW","26-39","Police issued","unknown","2",349
+2023,"NSW","26-39","Police issued","unknown","3",356
+2023,"NSW","26-39","Police issued","unknown","5",405
+2023,"NSW","26-39","Police issued","unknown","6",1035
+2023,"NSW","26-39","Police issued","unknown","7",737
+2023,"NSW","26-39","Police issued","unknown","8",298
+2023,"NSW","40-64","Police issued","unknown","0",818
+2023,"NSW","40-64","Police issued","unknown","1",69
+2023,"NSW","40-64","Police issued","unknown","2",1056
+2023,"NSW","40-64","Police issued","unknown","3",227
+2023,"NSW","40-64","Police issued","unknown","4",1031
+2023,"NSW","40-64","Police issued","unknown","5",268
+2023,"NSW","40-64","Police issued","unknown","6",223
+2023,"NSW","65 and over","Police issued","unknown","0",350
+2023,"NSW","65 and over","Police issued","unknown","1",29
+2023,"NSW","Unknown","Fixed or mobile camera","unknown","unknown",202757
+2023,"NT","17-25","Police issued","0","0",22
+2023,"NT","17-25","Police issued","0","1",16
+2023,"NT","17-25","Police issued","1","1",3
+2023,"NT","26-39","Police issued","0","0",71
+2023,"NT","26-39","Police issued","0","1",12
+2023,"NT","26-39","Police issued","1","1",7
+2023,"NT","40-64","Police issued","0","0",64
+2023,"NT","65 and over","Police issued","0","0",8
+2023,"NT","65 and over","Police issued","0","1",1
+2023,"NT","65 and over","Police issued","0","2",0
+2023,"NT","65 and over","Police issued","1","1",1
+2023,"QLD","Unknown","Fixed or mobile camera","unknown","unknown",77213
+2023,"QLD","Unknown","Police issued","unknown","unknown",3079
+2023,"SA","0-16","Police issued","unknown","unknown",3
+2023,"SA","17-25","Police issued","unknown","unknown",1387
+2023,"SA","26-39","Police issued","unknown","unknown",2272
+2023,"SA","40-64","Police issued","unknown","unknown",1805
+2023,"SA","65 and over","Police issued","unknown","unknown",302
+2023,"SA","Unknown","Police issued","unknown","unknown",0
+2023,"TAS","0-16","Police issued","unknown","0",0
+2023,"TAS","17-25","Fixed or mobile camera","unknown","0",80
+2023,"TAS","17-25","Police issued","unknown","0",128
+2023,"TAS","17-25","Police issued","unknown","1",166
+2023,"TAS","17-25","Police issued","unknown","2",32
+2023,"TAS","17-25","Police issued","unknown","6",34
+2023,"TAS","26-39","Fixed or mobile camera","unknown","0",361
+2023,"TAS","26-39","Police issued","unknown","0",95
+2023,"TAS","26-39","Police issued","unknown","1",189
+2023,"TAS","26-39","Police issued","unknown","2",266
+2023,"TAS","26-39","Police issued","unknown","4",106
+2023,"TAS","40-64","Fixed or mobile camera","unknown","0",374
+2023,"TAS","40-64","Police issued","unknown","0",343
+2023,"TAS","40-64","Police issued","unknown","1",120
+2023,"TAS","65 and over","Fixed or mobile camera","unknown","0",55
+2023,"TAS","65 and over","Police issued","unknown","0",79
+2023,"VIC","0-16","Police issued","unknown","unknown",6
+2023,"VIC","17-25","Mobile camera","unknown","unknown",893
+2023,"VIC","17-25","Police issued","unknown","unknown",3547
+2023,"VIC","26-39","Mobile camera","unknown","unknown",4843
+2023,"VIC","26-39","Police issued","unknown","unknown",8319
+2023,"VIC","40-64","Mobile camera","unknown","unknown",5914
+2023,"VIC","40-64","Police issued","unknown","unknown",6248
+2023,"VIC","65 and over","Mobile camera","unknown","unknown",877
+2023,"VIC","65 and over","Police issued","unknown","unknown",695
+2023,"VIC","Unknown","Mobile camera","unknown","unknown",18196
+2023,"VIC","Unknown","Police issued","unknown","unknown",8
+2023,"WA","17-25","Police issued","unknown","unknown",706
+2023,"WA","26-39","Police issued","unknown","unknown",1512
+2023,"WA","40-64","Police issued","unknown","unknown",1227
+2023,"WA","65 and over","Police issued","unknown","unknown",147
